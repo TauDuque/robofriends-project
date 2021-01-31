@@ -12,7 +12,9 @@ Changing it to a react hooks app helped me understanding some features and funct
  </ul>
    
 # Tech Stack
- HTML<br>
- CSS<br>
- JavaScript<br>
- ReactJS
+<ul>
+ <li>HTML
+ <li>CSS
+ <li>JavaScript
+ <li>ReactJS
+ </ul>
